@@ -25,7 +25,7 @@ const SearchBlock = () => {
           if (selectedSupplier) {
             setSearch(load);
           } else {
-            alert("Hello world!");
+            alert("Please select a supplier");
           }
         }}
       >
